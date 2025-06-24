@@ -1,0 +1,3 @@
+This repo hosts the static html for a map of hazardous chemical and oil spills in Maine gathered via HOSS (Hazardous & Oil Spill System).
+
+See [https://github.com/matthewse19/maine-data-analysis](https://github.com/matthewse19/maine-data-analysis) for the notebook which generated this map and [https://github.com/matthewse19/maine-data/tree/main/environmental](https://github.com/matthewse19/maine-data/tree/main/environmental) for the data.
